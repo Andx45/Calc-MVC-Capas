@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Documents\Compiladores\Analisis II\Calculadora\CalculadoraApp\obj\Debug\net7.0\CalculadoraApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Compiladores\Analisis II\Calculadora\CalculadoraApp\obj\Debug\net7.0\CalculadoraApp.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Compiladores\Analisis II\Calculadora\CalculadoraApp\obj\Debug\net7.0\CalculadoraApp.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Compiladores\Analisis II\Calculadora\CalculadoraApp\obj\Debug\net7.0\CalculadoraApp.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Compiladores\Analisis II\Calculadora\CalculadoraApp\bin\Debug\net7.0\CalculadoraApp.exe
+C:\Users\LENOVO\Documents\Compiladores\Analisis II\Calculadora\CalculadoraApp\bin\Debug\net7.0\CalculadoraApp.deps.json
+C:\Users\LENOVO\Documents\Compiladores\Analisis II\Calculadora\CalculadoraApp\bin\Debug\net7.0\CalculadoraApp.runtimeconfig.json
+C:\Users\LENOVO\Documents\Compiladores\Analisis II\Calculadora\CalculadoraApp\bin\Debug\net7.0\CalculadoraApp.dll
+C:\Users\LENOVO\Documents\Compiladores\Analisis II\Calculadora\CalculadoraApp\bin\Debug\net7.0\CalculadoraApp.pdb
+C:\Users\LENOVO\Documents\Compiladores\Analisis II\Calculadora\CalculadoraApp\obj\Debug\net7.0\CalculadoraApp.dll
+C:\Users\LENOVO\Documents\Compiladores\Analisis II\Calculadora\CalculadoraApp\obj\Debug\net7.0\refint\CalculadoraApp.dll
+C:\Users\LENOVO\Documents\Compiladores\Analisis II\Calculadora\CalculadoraApp\obj\Debug\net7.0\CalculadoraApp.pdb
+C:\Users\LENOVO\Documents\Compiladores\Analisis II\Calculadora\CalculadoraApp\obj\Debug\net7.0\CalculadoraApp.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\Compiladores\Analisis II\Calculadora\CalculadoraApp\obj\Debug\net7.0\ref\CalculadoraApp.dll
